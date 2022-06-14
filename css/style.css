@@ -810,6 +810,10 @@ body {
     cursor: pointer;
     padding: 6px;
 }
+.modal-close-btn:hover .modal-close-btn-icon {
+    fill: var(--accent-color);
+  }  
+
 
 .backdrop.is-hidden {
     opacity: 0;
