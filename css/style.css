@@ -887,7 +887,7 @@ body {
 }
 
 .contact-form-input-wrapper {
-    position: relative;
+    
     margin-top: 4px;
 }
 
@@ -1018,6 +1018,7 @@ body {
 }
 
 .subscription-form-input {
+    position: relative;
     width: 358px;
     height: 50px;
     border: 1px solid rgba(255, 255, 255, 0.3);
